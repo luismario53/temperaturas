@@ -116,7 +116,7 @@ const obtenerTemperatura = async () => {
       }
     })();
 
-  }, 2500)
+  }, 30000)
 
 } 
 
